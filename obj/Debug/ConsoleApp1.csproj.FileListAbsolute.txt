@@ -1,0 +1,8 @@
+D:\Day5\jaggedExercise-01\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Day5\jaggedExercise-01\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Day5\jaggedExercise-01\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Day5\jaggedExercise-01\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Day5\jaggedExercise-01\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\Day5\jaggedExercise-01\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Day5\jaggedExercise-01\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Day5\jaggedExercise-01\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
